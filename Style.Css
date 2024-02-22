@@ -1,0 +1,16 @@
+nav{
+background-color: rgb(178, 157, 157);
+color: white;
+
+    }
+header{
+
+    width: 100%;
+    height: 80px;
+background-color: black;
+        position: fixed;
+
+}
+hh:hover{
+  cursor: pointer;
+}
